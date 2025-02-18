@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Russia</h3>
 
 - 🔭 I’m currently working on [PLL Analyzer]((private project))
+- Intrested in game development (Godot)
 
 
 <p align="left">
