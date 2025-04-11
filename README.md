@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Russia</h3>
 
 - 🔭 I’m currently working on PLL Analyzer (private project)
-- Contributor of AdminAntizapret <a href="https://github.com/Kirito0098/AdminAntizapret">Link</a>
+- Contributor of AdminAntizapret <a href="https://github.com/Kirito0098/AdminAntizapret" target="_blank">Link</a>
 - Intrested in game development (Godot)
 
 
